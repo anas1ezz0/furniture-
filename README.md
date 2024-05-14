@@ -9,4 +9,5 @@ A new Flutter project.
 
 #Details_screen
 
-![Uploading Screenshot_1708008847.png…]()
+![Screenshot_1708008847](https://github.com/anas1ezz0/furniture-/assets/115151453/9fec83f4-de8e-492c-a130-6abae6e7131e)
+
